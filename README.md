@@ -1,14 +1,6 @@
 # DOR TSEL CLI
 
-----
 
-### Installation
-
-```
-$ git clone https://github.com/mbul48/dor.git
-$ cd dor
-$ php dor.php
-```
 
 --------
 
